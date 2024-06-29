@@ -8,3 +8,6 @@ Objectives:
 3. Integrate threading to keep the game loop running concurrently with the main thread, allowing for better responsiveness and handling of Pygame events
 4. Incorporate OS for file operations to check if a file exists before loading data from it and to save data to a file. (Used for high score tracking)
 5. Implement other minute details which were given as the project prerequisites.
+
+GUIDE:
+Download all the files and start the game by running the file 'StartMenu.py.'
